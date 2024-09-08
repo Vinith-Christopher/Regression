@@ -10,7 +10,7 @@ seaborn~=0.13.2
 matplotlib~=3.5.3
 pyspark~=3.5.2
 
-# steps followed
+# Steps 
 1--- preprocessing 
 2--- split the time series data
 3--- training & testing with different basic regression models
